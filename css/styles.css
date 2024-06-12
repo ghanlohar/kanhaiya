@@ -521,7 +521,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(22, 22, 22, 0.9), rgba(22, 22, 22, 0.9)), url('../images/bg.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -569,7 +569,7 @@ input[type='checkbox'] {
 	margin-bottom: 0.5rem;
 	color: #0b36a8;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1.875rem;
 	line-height: 1.5rem;
 	font-family: "Poppins";
 }
@@ -588,7 +588,7 @@ input[type='checkbox'] {
 }
 
 .basic-2 .h2-heading {
-	margin-bottom: 0.75rem;
+	margin-bottom: 2.75rem;
 	text-align: center;
 }
 
